@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamOriyomi
-- 👀 I’m interested in ... Web development and Design, UX Design and Mobile App Development
+- 👀 I’m interested in ... Web development and Design, UX Design, Data Analytics and Mobile App Development
 - 🌱 I’m currently learning ... Web Development and Design, UX Design and Mobile App Development
 - 💞️ I’m looking to collaborate on ... Mobile App Development
 - 📫 How to reach me ... azeezbolarinwa@gmail.com
